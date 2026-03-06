@@ -68,7 +68,7 @@ app.post('/register', async(req, res) => {
     }   
  })
 
- app.post('/home', async(req, res) => {
+ app.post('/', async(req, res) => {
     try{
         const customer = new Customer(req.body);
         await customer.save();
