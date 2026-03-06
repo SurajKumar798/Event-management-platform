@@ -6,7 +6,7 @@
 
 ## 🌐 Live Demo
 
-> 🔗 Add your deployed URL here (Vercel / Render / Railway)
+> 🔗(https://event-management-platform-frontend-my7z.onrender.com/)
 
 ---
 
